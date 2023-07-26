@@ -1,2 +1,2 @@
 # SadTalker-hebrew
-The SadTalker database is translated into Hebrew
+The SadTalker project is translated into Hebrew
