@@ -30,7 +30,7 @@ def sadtalker_demo(checkpoint_path='checkpoints', config_path='src/config', warp
         gr.Markdown("<div align='center'> <h2> 😭 SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation (CVPR 2023) </span> </h2> \
                     <a style='font-size:18px;color: #efefef' href='https://arxiv.org/abs/2211.12194'>Arxiv</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \
                     <a style='font-size:18px;color: #efefef' href='https://sadtalker.github.io'>Homepage</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \
-                    <a style='font-size:18px;color: #efefef' href='https://sadtalker.github.io'>תרגום לעברית תוכל למצוא כאן</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \
+                    <a style='font-size:18px;color: #efefef' href='https://github.com/evgebrtwjhr/SadTalker-hebrew'>תרגום לעברית תוכל למצוא כאן</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \
                      <a style='font-size:18px;color: #efefef' href='https://github.com/Winfredy/SadTalker'> Github </div>")
         
         with gr.Row().style(equal_height=False):
