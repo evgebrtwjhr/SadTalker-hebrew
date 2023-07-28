@@ -10,4 +10,4 @@ The SadTalker project is translated into Hebrew
   ## התקנה ידנית
 1. את הקובץ  `app_sadtalker.py` עליך לשים בנתיב `SadTalker\app_sadtalker.py`
 - עליך להחליף את כל הקבצים המקוריים בקבצים שתוריד מפה
-- 
+  
